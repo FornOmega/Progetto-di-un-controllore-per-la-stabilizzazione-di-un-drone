@@ -16,5 +16,5 @@ Durante lo sviluppo della mia tesi, ho maturato le seguenti competenze:
 <!--## Riferimenti
 
 Se desideri ulteriori dettagli o discussioni, puoi contattarmi a o visitare il mio profilo. (aggiungere, in arrivo)-->
-_Nota_
+_Nota_:
 Icona del drone progettata da [ByteDance IconPark](https://www.iconfinder.com/icons/9068987/drone_icon) su Iconfinder, utilizzata sotto licenza [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
