@@ -6,7 +6,7 @@ Tesi di Laurea Triennale in Ingegneria Informatica
 
 ## Competenze Acquisite
 
-Durante lo sviluppo della mia tesi, ho maturato le seguenti competenze:
+Durante lo sviluppo della mia tesi, ho maturato le seguenti competenze in ambito Autonomous and Mobile Robotics:
 
 - **Modellazione matematica**: Analisi dettagliata e costruzione passo passo di un modello non lineare per rappresentare con maggiore accuratezza possibile la dinamica reale di un drone quadricottero.
 - **Componenti HW e SW comuni anche in robotica**: Analisi tipica struttura, componenti, sensori comuni costituenti i droni come ad esempio il flight controller e il relativo SW di bordo.
